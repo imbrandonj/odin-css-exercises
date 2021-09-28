@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .para,
 .small-para {
   color: hsl(0, 100%, 50%);
@@ -17,6 +18,16 @@
   font-size: 20px;
   font-weight: bold;
 } 
+=======
+.para {
+  font-size: 22px;
+  color: red;
+}
+
+.small-para {
+    font-size: 12px;
+  }  
+>>>>>>> fb830803153185511f4c568172cb9d3948befa55
 
 .button {
   background-color: #ffc0cb;
@@ -24,6 +35,7 @@
   font-size: 20px;
 }
 
+<<<<<<< HEAD
 .child {
   color: red;
   font-size: 14px;
@@ -32,4 +44,21 @@
 div.text {
   color: green;
   font-size: 28px;
+=======
+.confirm {
+    background: green;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+  }   
+
+.text {
+    color: green;
+    font-size: 28px;
+  }
+
+.child {
+  color: red;
+  font-size: 14px;
+>>>>>>> fb830803153185511f4c568172cb9d3948befa55
 }
